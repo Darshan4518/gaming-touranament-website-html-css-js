@@ -27,8 +27,6 @@ Welcome to the **Gaming Tournament Website**! This project showcases upcoming ga
 ### Upcoming matches
 ![Screenshot 2024-09-14 204541](https://github.com/user-attachments/assets/f35136bf-814b-4202-a32c-e7897e777a07)
 
-### Our Menus
-![Screenshot 2024-09-14 200014](https://github.com/user-attachments/assets/baff4f3c-75fc-4265-af9d-27a07c893712)
 
 ### News and Headline
 ![Screenshot 2024-09-14 204555](https://github.com/user-attachments/assets/943f1c7b-2c31-4f0f-84e5-ae392cae0760)
